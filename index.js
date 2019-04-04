@@ -1,3 +1,1 @@
-console error ('Help!')
-console.log ('I would be a logger')
-console.warn ('Do not continue')
+console.log("I want to be a logger");
