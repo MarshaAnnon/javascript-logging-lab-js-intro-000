@@ -1,1 +1,1 @@
-console.error ("I want to be a logger");
+console.log("logging");
