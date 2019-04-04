@@ -1,2 +1,2 @@
 console error ('Help!')
-console.log ("Do not continue, transaction has been canceled")
+console.log ("I would be a logger")
